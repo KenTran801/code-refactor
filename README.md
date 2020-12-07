@@ -18,5 +18,5 @@ Updates made to the HTML code:
 
 Link to repository on GitHub: https://github.com/KenTran801/code-refactor
 
-Link to the deployed link: 
+Link to the deployed link: https://kentran801.github.io/code-refactor/
 
